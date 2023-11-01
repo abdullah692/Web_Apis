@@ -1,0 +1,16 @@
+{
+  "name": "npmmodules",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Node.js Practice ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abdullah Siddiqui",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.0.0",
+    "validator": "^13.7.0"
+  }
+}
